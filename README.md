@@ -1,2 +1,3 @@
-# hollowkight.github.io
-Have you ever wanted to play hollow kight in class well now you can!!!!
+# hollow knight
+## please credit me with a pop up if you use this please.
+fixed a lot of stuff and hopefully the full game works.
